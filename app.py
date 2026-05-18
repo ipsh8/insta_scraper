@@ -15,7 +15,7 @@ def extract_images():
     try:
         # 2. Log in with Burner Account
         cl = Client()
-        cl.login("YOUR_BURNER_USERNAME", "YOUR_BURNER_PASSWORD")
+        cl.login("afteripshityt", "renVef-qipgab-4fecsy")
         
         # 3. Fetch the account
         user_id = cl.user_id_from_username(target_account)
